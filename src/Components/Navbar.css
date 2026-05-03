@@ -1,0 +1,43 @@
+.navbar {
+    background: linear-gradient(90deg, #000000, #1a1a1a);
+    font-family: 'Poppins', sans-serif;
+  }
+  
+  /* Logo */
+  .navbar-brand {
+    font-family: 'Playfair Display', serif;
+    font-weight: 700;
+    font-size: 3rem;
+    letter-spacing: 1px;
+    line-height: 1.2;
+    color: #ffc107 !important;
+    text-transform: uppercase;
+  }
+  
+  .navbar-brand:hover {
+    color: #ffffff !important;
+    text-shadow: 0 0 10px #ffc107;
+  }
+  
+  /* Menu links */
+  .nav-link {
+    font-weight: 600;
+    font-size: 1rem;
+    letter-spacing: 0.5px;
+    transition: 0.3s;
+  }
+  
+  /* Hover effect */
+  .nav-link:hover {
+    color: #ffc107 !important;
+    transform: scale(1.08);
+  }
+  
+  /* Button */
+  .btn-warning {
+    font-weight: 600;
+    border-radius: 25px;
+  }
+  #Hero, #Room, #Aminities, #Contact {
+    scroll-margin-top: 80px;
+  }

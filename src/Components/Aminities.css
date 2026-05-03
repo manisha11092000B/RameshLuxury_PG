@@ -1,0 +1,41 @@
+.amenities-section {
+    background: #0f172a; /* dark theme */
+    padding: 70px 0;
+    color: #fff;
+  }
+  
+  .section-title {
+    font-weight: 700;
+    color: #ffc107;
+    font-size: 2.5rem;
+  }
+  
+  /* Card */
+  .amenity-card {
+    background: #1e293b;
+    padding: 25px 15px;
+    border-radius: 15px;
+    border: 1px solid #334155;
+    transition: 0.3s;
+    cursor: pointer;
+  }
+  
+  /* Icon */
+  .amenity-card .icon {
+    font-size: 35px;
+    margin-bottom: 10px;
+    color: #ffc107;
+  }
+  
+  /* Text */
+  .amenity-card h6 {
+    font-weight: 600;
+    margin-top: 10px;
+  }
+  
+  /* Hover Effect */
+  .amenity-card:hover {
+    transform: translateY(-8px);
+    background: #334155;
+    box-shadow: 0 10px 20px rgba(0,0,0,0.4);
+  }
