@@ -20,7 +20,7 @@ function Contact() {
 
     const { name, email, phone, room, date, message } = formData;
 
-    const whatsappNumber = "918557876140";
+    const whatsappNumber = "919620881234";
 
     const text = `Hello, I want to book a stay:
 
