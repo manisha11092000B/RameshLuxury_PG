@@ -25,13 +25,13 @@ function Footer() {
 
             <p>
               <FaPhoneAlt className="me-2" />
-              <a href="tel:+919620881234">+91 9620881234</a>
+              <a href="tel:+917219517707">+91 7219517707</a>
             </p>
 
             <p>
               <FaWhatsapp className="me-2 text-success" />
               <a
-                href="https://wa.me/919620881234"
+                href="https://wa.me/917219517707"
                 target="_blank"
                 rel="noreferrer"
               >
