@@ -1,7 +1,7 @@
 import React from "react";
 import Navbar from "./Components/Navbar";
 import Hero from "./Components/Hero";
-import Room from "./Components/Room";
+import Gallery from "./Components/Gallery";
 import Aminities from "./Components/Aminities";
 import Contact from "./Components/Contact";
 import Footer from "./Components/Footer";
@@ -11,7 +11,7 @@ function App() {
     <>
       <Navbar />
       <Hero />
-      <Room />
+      <Gallery />
       <Aminities />
       <Contact />
       <Footer />

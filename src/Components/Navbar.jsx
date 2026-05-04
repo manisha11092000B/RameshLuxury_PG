@@ -6,7 +6,7 @@ function Navbar() {
       <div className="container">
         
         {/* Logo */}
-        <a className="navbar-brand " href="#">
+        <a className="navbar-brand " href="/">
           🏠 Ramesh PG
         </a>
 
@@ -29,7 +29,7 @@ function Navbar() {
             </li>
 
             <li className="nav-item">
-              <a className="nav-link fw-semibold" href="#Room">Rooms</a>
+              <a className="nav-link fw-semibold" href="#Room">Gallery</a>
             </li>
 
             <li className="nav-item">
