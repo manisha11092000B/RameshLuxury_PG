@@ -17,15 +17,15 @@ function Hero() {
               Safe, Affordable & Fully Furnished Rooms in Pune
             </p>
 
-            <div className="mt-4">
-              <button className="btn btn-warning me-3 px-4">
+            {/* <div className="mt-4">
+              <button className="btn btn-warning me-3 px-4"  href="#Contact">
                 Book Now
               </button>
 
-              <button className="btn btn-outline-light px-4">
+              <button className="btn btn-outline-light px-4" href="Gallery" >
                 View Rooms
               </button>
-            </div>
+            </div> */}
           </div>
 
         </div>

@@ -29,7 +29,11 @@ function Navbar() {
             </li>
 
             <li className="nav-item">
-              <a className="nav-link fw-semibold" href="#Room">Gallery</a>
+              <a className="nav-link active fw-semibold" href="#about">About</a>
+            </li>
+
+            <li className="nav-item">
+              <a className="nav-link fw-semibold" href="#Gallery">Gallery</a>
             </li>
 
             <li className="nav-item">
@@ -42,9 +46,9 @@ function Navbar() {
 
             {/* CTA Button */}
             <li className="nav-item">
-              <button className="btn btn-warning fw-bold px-4">
+            <a href="#Contact" className="btn btn-warning fw-bold px-4">
                 Book Now
-              </button>
+              </a>
             </li>
 
           </ul>

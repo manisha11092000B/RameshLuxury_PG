@@ -74,7 +74,7 @@ Message: ${message}`;
           <div className="shadow rounded overflow-hidden h-100">
             <iframe
               title="map"
-              src="https://www.google.com/maps?q=Pune&output=embed"
+              src="https://www.google.com/maps?q=Ramesh%20PG%20TECH%20MAHINDRA%20near%20TCS%20Jai%20Ganesh%20Colony%20Phase%203%20Hinjawadi%20Pune%20Maharashtra%20411057&output=embed"
               width="100%"
               height="100%"
               style={{ minHeight: "450px", border: 0 }}

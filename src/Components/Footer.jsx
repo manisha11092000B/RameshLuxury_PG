@@ -13,7 +13,9 @@ function Footer() {
             <h5>Our Address</h5>
             <p>
               <FaMapMarkerAlt className="me-2" />
-              Pune, Maharashtra, India
+              Ramesh PG, TECH MAHINDRA, near TCS &, Jai Ganesh Colony, 
+              Phase 3, Hinjawadi Rajiv Gandhi Infotech Park, 
+              Hinjawadi, Pune, Bhoirwadi, Maharashtra 411057
             </p>
           </div>
 
