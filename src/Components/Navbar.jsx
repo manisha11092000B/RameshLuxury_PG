@@ -7,7 +7,7 @@ function Navbar() {
         
         {/* Logo */}
         <a className="navbar-brand " href="/">
-          🏠 Ramesh PG
+          🏠 Ramesh Luxury PG
         </a>
 
         {/* Toggle Button */}
